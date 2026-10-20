@@ -1,5 +1,7 @@
 # Heart Disease Prediction Using Machine Learning
 
+🚀 **Try the live app:** [Open Heart Disease Prediction](https://heart-disease-prediction-mhgygyjuox2q3vfdkcpykt.streamlit.app/)
+
 A machine learning project that explores the use of classification algorithms to predict the presence or absence of heart disease based on patient health attributes.
 
 The project compares Logistic Regression, Random Forest, and XGBoost and integrates the selected model into an interactive web application built with Streamlit.
